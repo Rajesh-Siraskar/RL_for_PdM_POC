@@ -1,5 +1,4 @@
-# RL_for_Predictive_Maintenance
-RL for Predictive Maintenance
+# RL for Predictive Maintenance
 
 Attempt to create optimal maintenance policies for an industrial environment.
 
